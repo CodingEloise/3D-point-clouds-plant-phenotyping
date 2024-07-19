@@ -43,15 +43,15 @@ python colored_annotation_processor.py
 
 Example of an original `.xyz` file:  ”A2_20220512_a.xyz“
 
-![image-20240719190830198](E:\intern\3D-point-clouds-plant-phenotyping\image-20240719190830198.png)
+![image-20240719190830198](image-20240719190830198.png)
 
 Class Annotation
 
-![image-20240719190128083](E:\intern\3D-point-clouds-plant-phenotyping\image-20240719190128083.png)
+![image-20240719190128083](image-20240719190128083.png)
 
 Instance Annotation
 
-![image-20240719191352940](E:\intern\3D-point-clouds-plant-phenotyping\image-20240719191352940.png)
+![image-20240719191352940](image-20240719191352940.png)
 
 
 
