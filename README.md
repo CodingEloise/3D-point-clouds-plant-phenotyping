@@ -4,16 +4,12 @@ Automated segmentation and annotation of 3D point clouds for plant phenotyping
 
 
 ## File Structure
-
+```
 .
-├── colored_annotation_processor.py   # Code for visualizing class and instance annotations
-├── data                              # LAST-Straw dataset
-├── output
-│   ├── parts_and_instances           # Visualisation of the class and instance annotations
-│   └── parts_only                    # Visualisation of the class annotations
+├── colored_annotation_processor.py   # Code for visualizing class and instance annotations                         
+├── sample_output                     # Sample visualisation of class and instance annotation for ”A2_20220512_a.xyz“
 └── README.md                         # This README file
-
-
+```
 
 ## Data
 
