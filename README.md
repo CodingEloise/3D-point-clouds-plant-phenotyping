@@ -49,6 +49,13 @@ Instance Annotation
 
 ![image-20240719191352940](image-20240719191352940.png)
 
+## PointNet++ Visualisation
+Avg IoU reaches over 70%
+![image](https://github.com/user-attachments/assets/baf4d27f-8726-460d-ae8a-df1594a949cd)
+
+![image](https://github.com/user-attachments/assets/75fc362f-1da9-447d-8e22-9020e5a51082)
+
+![image](https://github.com/user-attachments/assets/6d7f69fd-4606-46d8-a4d1-e64c3832324b)
 
 
 
